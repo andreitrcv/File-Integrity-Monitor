@@ -1,4 +1,5 @@
-# File-Integrity-Monitor
+# File-Integrity-Monitor with Email Alerts
+
 
 This PowerShell script serves as a file integrity monitor that continuously checks for changes in files within a specified folder and sends email alerts if any unauthorized modifications or file additions occur. It provides an extra layer of security by maintaining a baseline of file hashes and notifying you when discrepancies are detected.
 
